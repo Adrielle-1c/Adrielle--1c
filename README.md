@@ -1,1 +1,2 @@
-# Adrielle--1c
+Ola sou a Adrielle 
+sou estudante alura
